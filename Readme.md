@@ -1,0 +1,1 @@
+Project configurations files can be added to Git
